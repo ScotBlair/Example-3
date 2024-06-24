@@ -1,4 +1,4 @@
-Example 3: Business Website Down<br />
+EXAMPLE 3: BUSINESS WEBSITE DOWN<br />
 
 <br />- Intake<br />
 
