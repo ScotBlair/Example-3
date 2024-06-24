@@ -1,13 +1,13 @@
-Example 3: Business Website Down
+Example 3: Business Website Down<br />
 
-- Intake<br />
-
-
-- Assignment and Communication<br />
+<br />- Intake<br />
 
 
-- Working the Issue<br />
+<br />- Assignment and Communication<br />
 
 
-- Resolution<br />
+<br />- Working the Issue<br />
+
+
+<br />- Resolution<br />
 
