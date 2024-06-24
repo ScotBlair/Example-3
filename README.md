@@ -16,8 +16,9 @@ He opens up Command Prompt and types in "ipconfig /displaydns" just to satisfy h
 <br />![1](https://github.com/ScotBlair/Example-3/assets/171102023/310101c7-cf44-4a41-90ff-43c6c34b34f2)<br />
 
 After noting the listed DNS address, he types in "ipconfig /flushdns" to flush the local DNS.<br />
-<br />![VirtualBox_Windows 10_24_06_2024_09_34_28](https://github.com/ScotBlair/Example-3/assets/171102023/c8a384e2-4872-4bf4-94c9-bb794e72294a)<br />
-
+<br />![VirtualBox_Windows 10_24_06_2024_09_34_28](https://github.com/ScotBlair/Example-3/assets/171102023/68dec572-6fa2-4354-b5ad-9ec1b2a7e1e3)<br />
 
 <br />- Resolution<br />
+Scot contacts Karen once more to ask her to try the website again.  Karen responds by saying that the website is back online.  Scot thanks her for contacting IT support, then closes the ticket.<br />
+<br />![Screenshot_24-6-2024_94128_localhost](https://github.com/ScotBlair/Example-3/assets/171102023/6f3cfd5b-aea4-440b-94fb-63fddcc7c54a)<br />
 
